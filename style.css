@@ -1,0 +1,67 @@
+body {
+  background-color: orange;
+}
+
+#dogpic {
+  height: 350px;
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+}
+#header {
+  font-family: Arial;
+  color: white;
+  text-align: Left;
+  background-color: #999;
+  padding: 10px;
+  margin: 0px;
+  border: 0px;
+  
+
+}
+
+ul {
+  list-style-type: none;
+  float: left;
+  font-family: sans-serif;
+  font-size: 1em;
+  text-align: left;
+  padding: 10px;
+  color: grey;
+
+}
+p {
+  color: white;
+  font-size: 1.5em;
+  border: 5px solid grey;
+  margin: 10px;
+  padding: 10px;
+}
+
+a {
+  font-weight: bold;
+  font-style: italic;
+  font-family: Garamond;
+}
+
+p:nth-child(3) {
+  color: white;
+}
+
+#threelogos {
+  margin: auto;
+  height: 200px;
+  width: 400px;
+
+}
+div {
+  text-align: center;
+}
+
+#filler {
+  font-family: Helvetica;
+  color: grey;
+  font-size: 1.15em;
+}
